@@ -24,7 +24,13 @@ Tabla que contendrá los endpoint y descripción de la funcionalidad sobre los d
 <BR>
 
 ### Screenshots (Capturas de Pantall)✅
-De los Endpoint que generan los datos
+<img src="images/endPoint_Cart.png" alt="EndPonit" width="400">
+<img src="images/endPoint_Comments.png" alt="EndPonit" width="400">
+<img src="images/endPoint_Comments2.png" alt="EndPonit" width="400">
+<img src="images/endPoint_Interactions.png" alt="EndPonit" width="400">
+<img src="images/endPoint_Products.png" alt="EndPonit" width="400">
+<img src="images/endPoint_Purcharse.png" alt="EndPonit" width="400">
+<img src="images/endPoint_Users.png" alt="EndPonit" width="400">
 <BR>
 
 ### Respaldo de la BD Post Llenado (1,000,000 de registros)✅
