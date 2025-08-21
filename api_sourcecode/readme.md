@@ -89,6 +89,17 @@ Las operaciones CRUD se diseñaron para manejar las entidades principales del si
 
 ---
 
+## 📸 Screenshots  
+
+### 🔹 Vista 1 – Usuarios  
+![Usuarios](../imagenes/api_img1.png)  
+
+### 🔹 Vista 2 – Productos  
+![Productos](../imagenes/api_img2.png)  
+
+### 🔹 Vista 3 – Dashboard ML  
+![Dashboard](../imagenes/api_img3.png)  
+
 # 🤖 Endpoints con ML  
 
 Los modelos de Machine Learning permiten **analizar datos de consumo** para recomendaciones personalizadas y generar métricas de consumo consciente.  
@@ -116,5 +127,3 @@ Los modelos de Machine Learning permiten **analizar datos de consumo** para reco
 | **GET** | `/ml/dashboard` | Obtiene los datos procesados por el modelo supervisado para alimentar el dashboard de consumo consciente. |
 
 ---
-
-## 📸 Screenshots  
